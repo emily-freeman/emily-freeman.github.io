@@ -18,7 +18,7 @@ We watched so intently because our mother
 always used a peeler - not daring, violent or ancient.  
 Grandma grew up Catholic: lashed by nuns,  
 forced to walk to church in bits of shoe, confess  
-her sins weekly and bare knees on cold Church stone,  
+her sins weekly and bare knees on cold church stone,  
 raw in prayer. She began at the top of the apple,  
 and she pressed her tongue against her bottom lip.  
 The peeling skin formed the start of a red snake that she  
