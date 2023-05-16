@@ -12,7 +12,7 @@ small kitchen as my brother and I ate our second
 bowl of sugar puffs.  She washed it, and the water  
 made its skin glisten; it looked like a heart in her  
 left hand. With her right she picked up a knife:  
-&nbsp;&nbsp;&nbsp;&nbsp;*I can peel this apple in one go,*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*I can peel this apple in one go,*  
 she said, eyes pricked like sewing needles.  
 We watched so intently because our mother  
 always used a peeler - not daring, violent or ancient.  
@@ -26,7 +26,10 @@ tamed with her knife, turning the apple accordingly,
 humming Sinatra to charm it. The coil was presented  
 to us on the table, and we stared, thought it magical,  
 expected it to squirm.  
-&nbsp;&nbsp;&nbsp;&nbsp;*I’ve still got it,*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*I’ve still got it,*  
 she said, as she threw her great whorl into the dustbin.  
 We both wondered what it was she still had,  
 and if she would show it to us.  
+
+<br/><br/>
+<sup><sub>*Apple Snake* was published in [The Mays 31](https://www.themaysanthology.co.uk/).</sub></sup>
