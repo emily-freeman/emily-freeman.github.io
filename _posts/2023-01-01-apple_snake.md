@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 title: Apple Snake
 description: Dedicated to my Grandmother
 permalink: apple-snake/
-date: January 2023
+date: 2023-01-01
 ---
 
 ## Apple Snake
